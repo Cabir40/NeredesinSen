@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1010025121707-bs8mp4skceqcj8mde9g7g2bst8e9vp78.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1010025121707</string>
+    <string name="google_api_key" translatable="false">AIzaSyBb7lQ-cCy38fnMl_KUpP5ik23OlL0cwzY</string>
+    <string name="google_app_id" translatable="false">1:1010025121707:android:69d6bb049a0afdb2ef74ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBb7lQ-cCy38fnMl_KUpP5ik23OlL0cwzY</string>
+    <string name="google_storage_bucket" translatable="false">neredesinsenv4-cd459.appspot.com</string>
+    <string name="project_id" translatable="false">neredesinsenv4-cd459</string>
+</resources>
