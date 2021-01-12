@@ -1,0 +1,4 @@
+com/projem/neredesinsenv4/ExampleInstrumentedTest.java
+ com.projem.neredesinsenv4.ExampleInstrumentedTest
+com/projem/neredesinsenv4/test/BuildConfig.java
+ com.projem.neredesinsenv4.test.BuildConfig
