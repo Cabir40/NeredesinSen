@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010025121707",
+    "project_id": "neredesinsenv4-cd459",
+    "storage_bucket": "neredesinsenv4-cd459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010025121707:android:69d6bb049a0afdb2ef74ee",
+        "android_client_info": {
+          "package_name": "com.projem.neredesinsenv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010025121707-bs8mp4skceqcj8mde9g7g2bst8e9vp78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7lQ-cCy38fnMl_KUpP5ik23OlL0cwzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010025121707-bs8mp4skceqcj8mde9g7g2bst8e9vp78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
